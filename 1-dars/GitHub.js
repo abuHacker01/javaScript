@@ -17,14 +17,14 @@
 ///// 2 - git remote add origin URL
 
 
-// birinchi urunishda xatolik ko'rsatadi u xolda quidagi ko'dlarni yozamiz :
+//// birinchi urunishda xatolik ko'rsatadi u xolda quidagi ko'dlarni yozamiz :
 
-// 1. git config -global user.email "your@gmail.com"
-// 2. git config --global user.name "mukhtorov"
+///// 1. git config -global user.email "your@gmail.com"
+///// 2. git config --global user.name "mukhtorov"
 
 
-// kiritish/yangilash
+//// kiritish/yangilash
 
-/// 1. git add .
-/// 2. git commit -m ""
-/// 3. git push origin master
+///// 1. git add .
+///// 2. git commit -m ""
+///// 3. git push origin master
