@@ -13,7 +13,6 @@
 // repository - project
 // 1 - git init
 // 2 - git remote add origin URL
-// 2 - git remote add origin https://github.com/mukhtorov/g9.git
 
 // birinchi urunishda xatolik ko'rsatadi u xolda quidagi ko'dlarni yozamiz :
 
