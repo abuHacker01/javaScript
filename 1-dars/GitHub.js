@@ -25,6 +25,6 @@
 
 //// kiritish/yangilash
 
-///// 1. git add .
-///// 2. git commit -m ""
-///// 3. git push origin master
+///// 3. git add .
+///// 4. git commit -m ""
+///// 5. git push origin master
