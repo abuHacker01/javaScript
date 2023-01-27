@@ -31,12 +31,32 @@
 /// kegin "-1"-ga 0-ni qo'shamiz o'z xolicha qoladi ;
 
 // true + false     // 1 numberda
+/// true = 1 , false = 0
+/// 1 + 0 = 1  javob 1
+
 // 6 / "3"          // 2 numberda
+/// bo'luv amali bo'lgani uchun string numberga o'tadi ;
+/// va "6"-ni "3"-ga bo'lsa javob (--2--)
+
 // "2" * "3"        // 6 numberda
+/// bundaxam ko'paytiruv amali stringni numberga o'tkazib beradi
+/// kegin esa 2 * 3 = 6 javob (--6--)
+
 // 4 + 5 + "px"     // 9px stringda
+/// birinchi bo'lib 4 + 5 = 9 // number stribgga o'tdi ;
+/// 9 + "px" = "9px" javob (--"9px"--)
+
 // "$" + 5 + 4      // $54 stringda
+/// "$" + 5 = "$5" // number stribgga o'tdi ;
+/// "$5" + 4 = "$45" javob (--"$45"--)
+
 // "4" - 2          // 2 numberda
+/// "4" - 2 = 2 javob (--2--) // number stribgga o'tdi ;
+
 // "4px" - 2        // NaN
+/// "4px" - 2 bu yerda (-) stringni numberga o'tkazib beradi
+/// kegin 4px-ga 2-ni qo'shadi javob esa (--NaN--)
+
 // " -9 " + 5       // " -9 5 " stringda
 // " -9 " - 5       // -14 numberda
 // null + 1         // 1 numberda
