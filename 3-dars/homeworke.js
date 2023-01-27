@@ -43,22 +43,28 @@
 /// kegin esa 2 * 3 = 6 javob (--6--)
 
 // 4 + 5 + "px"     // 9px stringda
-/// birinchi bo'lib 4 + 5 = 9 // number stribgga o'tdi ;
+/// birinchi bo'lib 4 + 5 = 9 // number stringga o'tdi ;
 /// 9 + "px" = "9px" javob (--"9px"--)
 
 // "$" + 5 + 4      // $54 stringda
-/// "$" + 5 = "$5" // number stribgga o'tdi ;
+/// "$" + 5 = "$5" // number stringga o'tdi ;
 /// "$5" + 4 = "$45" javob (--"$45"--)
 
 // "4" - 2          // 2 numberda
-/// "4" - 2 = 2 javob (--2--) // number stribgga o'tdi ;
+/// "4" - 2 = 2 javob (--2--) // number stringga o'tdi ;
 
 // "4px" - 2        // NaN
 /// "4px" - 2 bu yerda (-) stringni numberga o'tkazib beradi
 /// kegin 4px-ga 2-ni qo'shadi javob esa (--NaN--)
 
 // " -9 " + 5       // " -9 5 " stringda
+/// pilus belgisi bilan number stringg o'tib ketadi ;
+/// kegin javob shunday bo'ladi (--" -9 5 "--)
+
 // " -9 " - 5       // -14 numberda
+/// bu yerda + emas - bo'lgani uchun stringga o'tmaydi nabarot string numberga o'tib ketadi
+/// va o'z-o'zidan javobi (-14) bo'lado
+
 // null + 1         // 1 numberda
 // undefined + 1    // NaN
 // "\t \n" - 2      // -2 numberda
