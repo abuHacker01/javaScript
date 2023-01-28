@@ -122,3 +122,31 @@
 // undefined === null       // false
 
 /// chunki undefined bilan nullning datatypesi ikkixil ;
+
+
+// null == "\n0\n"        // false
+
+/// chunki nullning qiymati umuman stringni qiymati-bilan tenglashaolmaydi ;
+
+
+// null === +"\n0\n"      // false
+
+/// chunki nullning qiymati umuman stringni qiymati-bilan tenglashaolmaydi ;
+
+
+// if ("0") {
+//     console.log("Hello");
+// }
+
+/// bu yerda agr "0"-bo'lsa "Hello" ni chiqar deyapti
+
+
+// let result;
+// if (a + b < 4) {
+//     result = "Belov";
+// } else {
+//     result = "Over";
+// }
+
+/// by yerda esa (a) + (b) (4)-dan kichik bolsa result "Belov"-ga teng bo'lsin
+/// agar unday bo'lmasa "Overga" teng bo'lsin
