@@ -29,7 +29,7 @@
 /// 8 ta data type bor.....=> 2 ga bolinadi ==> primitive vs non-primitive ;
 
 /// primetive : malum bir informatsiyalarni o'zida saqlaydi .
-/// non-primetive : bir 
+/// non-primetive : bir
 
 
 //// primitive :
@@ -52,4 +52,4 @@
 
 //// non-primitive :
 
-///// object...............=> array, function;
+///// object...............=> array, function ;

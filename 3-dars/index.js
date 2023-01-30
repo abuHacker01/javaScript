@@ -12,7 +12,7 @@
 // console.log(typeof valeu);  // string-deb chiqadi ;
 
 
-// STRIN ==> NUMBER
+// STRING ==> NUMBER
 
 // let str = "123";
 // console.log(typeof str);    // string ;
@@ -29,7 +29,7 @@
 
 /// agar hariflarni ustida arifmetik amal bajarsak NaN chiqadi ;
 
-// Basic operators , maths :
+// Basic operators of maths :
 
 /// 1. +.......................=> qo'shuv
 /// 2. -.......................=> ayruv
@@ -57,3 +57,36 @@
 
 // ===.........................=> qat'iy tenglig :
 /// uni oddiy tenglikdan farqi
+// if else
+
+/// Syntax of if else :
+
+// if (condition) {
+//
+// } else {
+//
+// }
+
+//// bu yerda birinchi bo'lib (--if--) keywordi
+//// kegin oddiy (--qavs--)lar . Ularni ichida (-shart-)
+///// qavs ichida (--True--) yoki (--False--)ni ifodalaydigan barcha qiymatlar bo'lishi mumkun ;
+//// songra (--jingalak qavs--) .
+///// uni ichida shart to'g'ri chiqib qolsa nima qaytarishi yoziladi .
+//// kegin (--else--) keywordi yoziladi . Unga shart yozilmaydi ;
+//// va yana (--jingalak qavs--)
+
+
+/// else nega kerak
+
+//// else qachonki if va else iflarni birontasiga to'gri kelmasa elsedagi javob chiqadi;
+
+/// if elseda (--else if--) degan tushunchaxam bor :
+//// else if bizga ifga to'g'ri kelmaganda yana bir boshqa variant bo'lib turadi ;
+//// elsedan farqi : unga shart bersa bo'ladi ;
+
+/// agar if else miz bitt line gasig'adigan bo'lsa jingalak qavsda yozishimiz mumkun
+
+// turnery
+
+/// turneryning xam vazifsi bir xil ;
+//// ularning farqi turneryni 
