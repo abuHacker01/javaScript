@@ -1,7 +1,7 @@
 // first
 
 // if ("0") {                       |
-//     console.log("Hello");        |---------bu yerda xech nima chiqmaydi ;
+//     console.log("Hello");        |---------bu yerda stringda "Hello" chiqadi ;
 // }                                |
 
 // second
