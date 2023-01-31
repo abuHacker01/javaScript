@@ -18,3 +18,10 @@
 // a + b < 4 ? console.log("Below") : console.log("Over");
 
 // forth
+
+let message;
+let login = "";
+
+login == "Enployee" ? message = "Hello" :
+    login == "Director" ? message = "Gretings" :
+        login == "" ? message = "No login" : message = "";
