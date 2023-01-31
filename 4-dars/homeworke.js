@@ -19,9 +19,9 @@
 
 // forth
 
-let message;
-let login = "";
+// let message;
+// let login = "";
 
-login == "Enployee" ? message = "Hello" :
-    login == "Director" ? message = "Gretings" :
-        login == "" ? message = "No login" : message = "";
+// login == "Enployee" ? message = "Hello" :
+//     login == "Director" ? message = "Gretings" :
+//         login == "" ? message = "No login" : message = "";
