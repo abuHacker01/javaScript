@@ -2,13 +2,10 @@ let num = Math.round(Math.random() * 1000);
 console.log(num);
 let yuzlig = parseInt(num / 100);
 num = num % 100;
-
 let onlig = parseInt(num / 10);
 num = num % 10;
-
 birlig = num;
-
-a = '', b = '', d = '';
+a = "", b = "", d = "";
 switch (yuzlig) {
     case 1:
         a = "bir yuz";
@@ -78,7 +75,7 @@ switch (birlig) {
         c = "uch";
         break;
     case 4:
-        c = "to'r";
+        c = "to'rt";
         break;
     case 5:
         c = "bech";
