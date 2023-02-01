@@ -1,5 +1,5 @@
-let num = 376;
-// console.log(num);
+let num = Math.round(Math.random() * 1000);
+console.log(num);
 let yuzlig = parseInt(num / 100);
 num = num % 100;
 let onlig = parseInt(num / 10);
