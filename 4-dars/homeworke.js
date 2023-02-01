@@ -17,6 +17,12 @@
 
 // a + b < 4 ? console.log("Below") : console.log("Over");
 
+// if (a + b < 4) {
+//     console.log("Below");
+// } else {
+//     console.log("Over");
+// }
+
 // forth
 
 // let message;
