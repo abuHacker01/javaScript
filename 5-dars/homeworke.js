@@ -1,14 +1,15 @@
-let num = 233;
-let y = parseInt(num / 100);
+let num = Math.round(Math.random() * 1000);
+console.log(num);
+let yuzlig = parseInt(num / 100);
 num = num % 100;
 
-let o = parseInt(num / 10);
+let onlig = parseInt(num / 10);
 num = num % 10;
 
-c = num;
+birlig = num;
 
 a = '', b = '', d = '';
-switch (y) {
+switch (yuzlig) {
     case 1:
         a = "bir yuz";
         break;
@@ -37,7 +38,7 @@ switch (y) {
         a = "to'qqiz yuz";
         break;
 }
-switch (o) {
+switch (onlig) {
     case 1:
         b = "o'n";
         break;
@@ -66,7 +67,7 @@ switch (o) {
         b = "to'qson";
         break;
 }
-switch (c) {
+switch (birlig) {
     case 1:
         c = "bir";
         break;
