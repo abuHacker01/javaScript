@@ -1,37 +1,98 @@
-let num = 1;
-let res = "";
-switch (num) {
-    case [1] == 1:
-        res = res + "bir yuz";
-        break;
-    case [1] == 2:
-        res = res + "ikki yuz";
-        break;
-    case [1] == 3:
-        res = res + "uch yuz";
-        break;
-    case [1] == 4:
-        res = res + "tor yuz";
-        break;
-    case [1] == 5:
-        res = res + "besh yuz";
-        break;
-    case [1] == 6:
-        res = res + "olti yuz";
-        break;
-    case [1] == 7:
-        res = res + "yetti yuz";
-        break;
-    case [1] == 8:
-        res = res + "sakkiz yuz";
-        break;
-    case [1] == 9:
-        res = res + "to'qqiz yuz";
-        break;
+let num = 233;
+let y = parseInt(num / 100);
+num = num % 100;
 
-    default:
+let o = parseInt(num / 10);
+num = num % 10;
 
+c = num;
+
+a = '', b = '', d = '';
+switch (y) {
+    case 1:
+        a = "bir yuz";
+        break;
+    case 2:
+        a = "ikki yuz";
+        break;
+    case 3:
+        a = "uch yuz";
+        break;
+    case 4:
+        a = "to'r yuz";
+        break;
+    case 5:
+        a = "bech yuz";
+        break;
+    case 6:
+        a = "olti yuz";
+        break;
+    case 7:
+        a = "yetti yuz";
+        break;
+    case 8:
+        a = "sakkiz yuz";
+        break;
+    case 9:
+        a = "to'qqiz yuz";
         break;
 }
-
-console.log(res);
+switch (o) {
+    case 1:
+        b = "o'n";
+        break;
+    case 2:
+        b = "yigirma";
+        break;
+    case 3:
+        b = "o'ttiz";
+        break;
+    case 4:
+        b = "qiriq";
+        break;
+    case 5:
+        b = "ellig";
+        break;
+    case 6:
+        b = "oltmush";
+        break;
+    case 7:
+        b = "yetmush";
+        break;
+    case 8:
+        b = "sakson";
+        break;
+    case 9:
+        b = "to'qson";
+        break;
+}
+switch (c) {
+    case 1:
+        c = "bir";
+        break;
+    case 2:
+        c = "ikki";
+        break;
+    case 3:
+        c = "uch";
+        break;
+    case 4:
+        c = "to'r";
+        break;
+    case 5:
+        c = "bech";
+        break;
+    case 6:
+        c = "olti";
+        break;
+    case 7:
+        c = "yetti";
+        break;
+    case 8:
+        c = "sakkiz";
+        break;
+    case 9:
+        c = "to'qqiz";
+        break;
+}
+console.log(a, b, c);

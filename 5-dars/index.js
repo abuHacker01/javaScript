@@ -1,52 +1,96 @@
-// if , else :
+let num = Math.round(Math.random() * 1000);
+console.log(num);
+let y = parseInt(num / 100);
+num = num % 100;
 
-/// if else nima vazifa bajaradi ?
+let o = parseInt(num / 10);  //onlik
+num = num % 10;
+c = num;///birlik
 
-//// if else - to'g'ri yoki noto'g'riligiini tekshirib , unga qarab bergan xodisamizbi bajaradi ;
-
-/// Syntax of if else ?
-
-///          shart   nima chiqarishi
-//            /         /
-//           /         /
-//          /         /
-//// if(condition){manual}
-
-///// shart - aynan shu shartimiz to'g'ri yoki noto'g'ri bo'ladi ;
-///// yani shart yozilgan ma'lumot
-
-///// qo'nlanma - qo'nlanmaga yozgan ko'dlarimiz ishlaydi . Agar to'g'ri bo'lsa ;
-
-// if else
-
-/// Syntax of if else :
-
-// if (condition) {
-//
-// } else {
-//
-// }
-
-//// bu yerda birinchi bo'lib (--if--) keywordi
-//// kegin oddiy (--qavs--)lar . Ularni ichida (-shart-)
-///// qavs ichida (--True--) yoki (--False--)ni ifodalaydigan barcha qiymatlar bo'lishi mumkun ;
-//// songra (--jingalak qavs--) .
-///// uni ichida shart to'g'ri chiqib qolsa nima qaytarishi yoziladi .
-//// kegin (--else--) keywordi yoziladi . Unga shart yozilmaydi ;
-//// va yana (--jingalak qavs--)
-
-
-/// else nega kerak
-
-//// else qachonki if va else iflarni birontasiga to'gri kelmasa elsedagi javob chiqadi;
-
-/// if elseda (--else if--) degan tushunchaxam bor :
-//// else if bizga ifga to'g'ri kelmaganda yana bir boshqa variant bo'lib turadi ;
-//// elsedan farqi : unga shart bersa bo'ladi ;
-
-/// agar if else miz bitt line gasig'adigan bo'lsa jingalak qavsda yozishimiz mumkun
-
-// turnery
-
-/// turneryning xam vazifsi bir xil ;
-//// ularning farqi turneryni 
+switch (y) {
+    case 1:
+        console.log("bir yuz");
+        break;
+    case 2:
+        console.log("ikki yuz");
+        break;
+    case 3:
+        console.log("uch yuz");
+        break;
+    case 4:
+        console.log("tor yuz");
+        break;
+    case 5:
+        console.log("besh yuz");
+        break;
+    case 6:
+        console.log("olti yuz");
+        break;
+    case 7:
+        console.log("yetti yuz");
+        break;
+    case 8:
+        console.log("sakkiz yuz");
+        break;
+    case 9:
+        console.log("to'qqiz yuz");
+        break;
+}
+switch (o) {
+    case 1:
+        console.log("o'n");
+        break;
+    case 2:
+        console.log("yigirma");
+        break;
+    case 3:
+        console.log("o'ttiz");
+        break;
+    case 4:
+        console.log("qirq");
+        break;
+    case 5:
+        console.log("ellik");
+        break;
+    case 6:
+        console.log("oltmush");
+        break;
+    case 7:
+        console.log("yetmush");
+        break;
+    case 8:
+        console.log("sakson");
+        break;
+    case 9:
+        console.log("to'qson");
+        break;
+}
+switch (c) {
+    case 1:
+        console.log("bir");
+        break;
+    case 2:
+        console.log("ikki");
+        break;
+    case 3:
+        console.log("uch");
+        break;
+    case 4:
+        console.log("tor");
+        break;
+    case 5:
+        console.log("besh");
+        break;
+    case 6:
+        console.log("olti");
+        break;
+    case 7:
+        console.log("yetti");
+        break;
+    case 8:
+        console.log("sakkiz");
+        break;
+    case 9:
+        console.log("to'qqiz");
+        break;
+}
