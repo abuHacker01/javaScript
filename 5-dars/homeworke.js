@@ -125,7 +125,3 @@
 //         console.log("we hope that this page looks ok!");
 //         break;
 // }
-
-////////////////////// 
-
-let a = +prompt("a?",'')
