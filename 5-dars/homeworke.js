@@ -97,7 +97,7 @@
 // }
 // console.log(a, b, c);
 
-////////////////////// yup sonlar
+////////////////////// tup sonlar
 
 // let c = 1;
 // for (let num = 2; num <= 100; num++) {
