@@ -24,3 +24,11 @@
 
 //// returnni yonida nima turgan bo'lsa osha functionni qiymati bo'ladi ;
 //// return function-ni eng oxirida yoziladi va undan kegin yozilgan xar qanday kod ishlamaydi ;
+
+
+/// sytax of function :
+
+// function functionname(parametrs) {
+//     console.log("xar xil amallar");
+// }
+
