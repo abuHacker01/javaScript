@@ -31,4 +31,3 @@
 // function functionname(parametrs) {
 //     console.log("xar xil amallar");
 // }
-
