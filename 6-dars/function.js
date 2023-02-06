@@ -34,7 +34,7 @@
 
 /// default parametr :
 
-// qachonki functionni argumentida qiymat berilmasa default parametr yordam beradi ;
+//// qachonki functionni argumentida qiymat berilmasa default parametr yordam beradi ;
 
 //// misol uchun :
 
