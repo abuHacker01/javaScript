@@ -59,3 +59,13 @@
 // }
 // x(3, 3);
 
+let ask = (question, yes, no) => {
+    if (question) yes();
+    else no();
+};
+
+ask(
+    "Do you agree?",
+    function (yes) { console.log("You agreed."); },
+    function (no) { console.log("You canceled the execution."); }
+);
