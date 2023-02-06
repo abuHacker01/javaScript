@@ -31,3 +31,21 @@
 // function functionname(parametrs) {
 //     console.log("xar xil amallar");
 // }
+
+/// default parametr :
+
+// qachonki functionni argumentida qiymat berilmasa default parametr yordam beradi ;
+
+//// misol uchun :
+
+//                              shular defaul parametrlar
+//                                 /                 |
+//                                /                  |
+//                               /                   |
+//                              /                    |
+// function fullname(name = "eshmAt", surname = "toshmatov") {
+//     name.toLowerCase();
+//     surname.toLowerCase();
+//     return console.log(surname + " " + name);
+// }
+// fullname();
