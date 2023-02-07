@@ -1,5 +1,4 @@
-
-// Function :
+// Function declaration :
 
 /// Function bu javascriptdagi dastur kod bloci ;
 
@@ -49,3 +48,47 @@
 //     return console.log(surname + " " + name);
 // }
 // fullname();
+
+// return-lig VS return-siz
+
+/// returni bor functionlar :
+//// return-lig functionlar ma'lum bir qiymatni o'zini qaytarish kerak bo'sa shunda yoziladi ;
+
+/// returni yo'q function-lar
+//// returni yo'q function-lar esa xoxlagan qiymatlarini qaytarishi mumkun
+
+/// clean code :
+
+//// clean code- bu codni boshqalar tushunadigan darajada yozish ;
+
+// funtion expression :
+
+/// sytax of function expression :
+
+// verable                                        amallar
+//  |                                               /
+//  |  functionname                parametrs       /
+//  |        |         keyword        /           /
+//  |        |            |          /           /
+//  |        |            |         /           /
+// let functionname = function (parametrs) {"amallar"};
+
+// declaration VS exprassin
+
+/// ularning farqi hoistingida
+
+//// declaration hoisting bo'ladi ;
+//// expression esa hoisting bo'lmaydi :
+///// chunki uni boshda verable bor ;
+
+// arrow function :
+
+///syntax of arrow function :
+
+// verable                                 amallar
+//  |                                         /
+//  |  functionname                keyword   /
+//  |        |        parametrs      /      /
+//  |        |            |         /      /
+//  |        |            |        /      /
+// let functionname = (parametrs) => {"amallar"};
