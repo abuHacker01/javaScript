@@ -1,6 +1,6 @@
 // Function declaration :
 
-/// Function bu javascriptdagi dastur kod bloci ;
+/// Function bu javascriptdagi dastur kod bloki ;
 
 /// Dinamic function :
 
@@ -59,7 +59,7 @@
 
 /// clean code :
 
-//// clean code- bu codni boshqalar tushunadigan darajada yozish ;
+//// clean code - bu codni boshqalar tushunadigan darajada yozish ;
 
 // funtion expression :
 
@@ -79,7 +79,7 @@
 
 //// declaration hoisting bo'ladi ;
 //// expression esa hoisting bo'lmaydi :
-///// chunki uni boshda verable bor ;
+///// chunki unda verable bor ;
 
 // arrow function :
 
