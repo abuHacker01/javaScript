@@ -55,28 +55,28 @@
 /// }
 /// console.log(res);
 
-let menu = {
-    width: 200,
-    height: 300,
-    title: "My menu"
-};
-let valeus = Object.values(menu);
+// let menu = {
+//     width: 200,
+//     height: 300,
+//     title: "My menu"
+// };
+// let valeus = Object.values(menu);
 
-function multiplyNumbers(q) {
-    if (q[0] * 2 !== NaN) {
-        q[0] = q[0] * 2;
-    }
-    if (q[1] * 2 !== NaN) {
-        q[1] = q[1] * 2;
-    }
-    if (q[2] * 2 !== NaN) {
-        q[2] = q[2] * 2;
-    }
-}
-multiplyNumbers(valeus)
-menu.width = valeus[0];
-menu.height = valeus[1];
-menu.title = valeus[2];
-console.log(valeus);
+// function multiplyNumbers(q) {
+//     if (q[0] * 2 !== NaN) {
+//         q[0] = q[0] * 2;
+//     }
+//     if (q[1] * 2 !== NaN) {
+//         q[1] = q[1] * 2;
+//     }
+//     if (q[2] * 2 !== NaN) {
+//         q[2] = q[2] * 2;
+//     }
+// }
+// multiplyNumbers(valeus)
+// menu.width = valeus[0];
+// menu.height = valeus[1];
+// menu.title = valeus[2];
+// console.log(valeus);
 
-console.log(menu);
+// console.log(menu);
