@@ -28,18 +28,18 @@
 
 // ? and ||
 
-function chackAge(age) {
-    if (age == 18 || age < 18) {
-        return console.log(true);
-    } else {
-        return console.log('Did parents allow you?');
-    }
-}
-function chackAge(age) {
-    age == 18 || age < 18 ? console.log(true) : console.log('Did parents allow you?');
-}
+// function chackAge(age) {
+//     if (age == 18 || age < 18) {
+//         return console.log(true);
+//     } else {
+//         return console.log('Did parents allow you?');
+//     }
+// }
+// function chackAge(age) {
+//     age == 18 || age < 18 ? console.log(true) : console.log('Did parents allow you?');
+// }
 
-chackAge(19);
+// chackAge(19);
 
 // a ><= b
 
