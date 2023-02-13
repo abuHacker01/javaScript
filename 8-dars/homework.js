@@ -37,6 +37,22 @@
 /// }
 /// console.log(res);
 
+// qiymatlarni qo'shib ket 
+
+/// let obj = {
+///     esmat: 100,
+///     toshmat: 150,
+///     gulmat: 200,
+/// };
+/// let res = 0;
+/// function dubling(obj) {
+///     for (key in obj) {
+///         res += obj[key];
+///     }
+/// }
+/// dubling(obj);
+/// console.log(res);
+
 /// if (valeus[0] > valeus[1] && valeus[0] < valeus[2] || valeus[0] < valeus[1] && valeus[0] > valeus[2]) {
 ///     res = valeus[0];
 /// } if (valeus[1] > valeus[0] && valeus[1] < valeus[2] || valeus[1] < valeus[0] && valeus[1] > valeus[2]) {
