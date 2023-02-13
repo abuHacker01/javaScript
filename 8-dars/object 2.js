@@ -3,16 +3,17 @@
 /// this bu thini o'rab turgan functionni o'rab turgan object
 //// misol uchun :
 
-let object = {
-    name: "Dilmurod",
-    surname: "Xabibullaev",
-    fn() {
-        console.log(this.name + this.surnam);
-    }
-};
-console.log(object.fn);
-/// qachon tiz kerak ?
-//// qachon oddiy usulda korsatsak
+// let object = {
+//     name: "Dilmurod",
+//     surname: "Xabibullaev",
+//     fn() {
+//         console.log(this.name + this.surnam);
+//     }
+// };
+// console.log(object.fn);
+
+/// qachon this kerak ?
+//// qachon oddiy usulda korsatsak keginchalik objectni nomini o'zgartirsak bizning usul ishlamaydi ;
 
 /// qachon this ishlamaydi ?
 
