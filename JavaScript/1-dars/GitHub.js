@@ -15,7 +15,6 @@
 ///// 1 - git init
 ///// 2 - git remote add origin https://github.com/abuHacker01/javaScript.git
 
-
 //// birinchi urunishda xatolik ko'rsatadi u xolda quidagi ko'dlarni yozamiz :
 
 ///// 1. git config -global user.email "your@gmail.com"
