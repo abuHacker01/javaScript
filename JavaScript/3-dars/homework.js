@@ -123,7 +123,6 @@
 
 /// chunki undefined bilan nullning datatypesi ikkixil ;
 
-
 // null == "\n0\n"        // false
 
 /// chunki nullning qiymati umuman stringni qiymati-bilan tenglashaolmaydi ;
