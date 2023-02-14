@@ -10,7 +10,6 @@
 
 /// push to GitHub :
 
-
 //// repositoryga ulash
 
 ///// 1 - git init
