@@ -133,7 +133,6 @@
 
 /// chunki nullning qiymati umuman stringni qiymati-bilan tenglashaolmaydi ;
 
-
 // if ("0") {
 //     console.log("Hello");
 // }
