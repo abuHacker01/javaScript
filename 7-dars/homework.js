@@ -37,6 +37,22 @@
 /// }
 /// console.log(res);
 
+// qiymatlarni qo'shib ket 
+
+/// let obj = {
+///     esmat: 100,
+///     toshmat: 150,
+///     gulmat: 200,
+/// };
+/// let res = 0;
+/// function dubling(obj) {
+///     for (key in obj) {
+///         res += obj[key];
+///     }
+/// }
+/// dubling(obj);
+/// console.log(res);
+
 /// if (valeus[0] > valeus[1] && valeus[0] < valeus[2] || valeus[0] < valeus[1] && valeus[0] > valeus[2]) {
 ///     res = valeus[0];
 /// } if (valeus[1] > valeus[0] && valeus[1] < valeus[2] || valeus[1] < valeus[0] && valeus[1] > valeus[2]) {
@@ -55,28 +71,20 @@
 /// }
 /// console.log(res);
 
-// let menu = {
-//     width: 200,
-//     height: 300,
-//     title: "My menu"
-// };
-// let valeus = Object.values(menu);
+// multiplyNumerics
 
-// function multiplyNumbers(q) {
-//     if (q[0] * 2 !== NaN) {
-//         q[0] = q[0] * 2;
-//     }
-//     if (q[1] * 2 !== NaN) {
-//         q[1] = q[1] * 2;
-//     }
-//     if (q[2] * 2 !== NaN) {
-//         q[2] = q[2] * 2;
-//     }
-// }
-// multiplyNumbers(valeus)
-// menu.width = valeus[0];
-// menu.height = valeus[1];
-// menu.title = valeus[2];
-// console.log(valeus);
+/// let menu = {
+///     width: 200,
+///     height: 300,
+///     title: "My menu"
+/// };
+/// let valeus = Object.values(menu);
 
-// console.log(menu);
+/// function multiplyNumeric(obj) {
+///     for (key in obj) {
+///         if (typeof obj[key] == "number") {
+///             obj[key] *= 2;
+///         }
+///     }
+/// }
+/// multiplyNumeric(menu);

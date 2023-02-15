@@ -24,3 +24,5 @@
 
 /// garberge collectio b qachonki non-primetive data turilig verable yaratsag
 //// va uni primetive-ga o'tkazsag stackdagi malumot bilan heapdagi malumoni bog'lab turuvchi ko'prig uzuladi va heapdagi malumot garbergega tushadi ;
+
+// structuredClone :
