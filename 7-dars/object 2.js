@@ -26,3 +26,5 @@
 //// va uni primetive-ga o'tkazsag stackdagi malumot bilan heapdagi malumoni bog'lab turuvchi ko'prig uzuladi va heapdagi malumot garbergega tushadi ;
 
 // structuredClone :
+
+/// structuredClone bu objectni faqat qiymatlarini copy qilish ;
