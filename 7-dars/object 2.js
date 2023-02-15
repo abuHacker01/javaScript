@@ -27,4 +27,4 @@
 
 // structuredClone :
 
-/// structuredClone bu objectni faqat qiymatlarini copy qilish ;
+/ structuredClone bu objectni faqat qiymatlarini copy qilish ;
