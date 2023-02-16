@@ -27,4 +27,13 @@
 
 // structuredClone :
 
-// / structuredClone bu objectni faqat qiymatlarini copy qilish ;
+/// structuredClone bu objectni faqat qiymatlarini copy qilish ;
+
+/// syntax of structuredClone :
+
+// let infoD = {
+//     name: "dilmurod",
+//     surname: "Xabibullaev",
+//     age: 15
+// };
+// let copyinfoD = structuredClone(infoD);
