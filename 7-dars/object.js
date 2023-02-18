@@ -31,7 +31,6 @@
 
 /// syntax of structuredClone :
 
-// let infoD = {
 //     name: "dilmurod",
 //     surname: "Xabibullaev",
 //     age: 15
