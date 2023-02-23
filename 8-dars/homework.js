@@ -7,7 +7,7 @@
 //     console.log(res);
 // }
 // name(string);
-// 
+
 // let str = "opiafoduify3123#!@#!dsjascnknnalhdksckah";
 // let res = { string: 0, number: 0, char: 0 };
 // for (l of str) {
