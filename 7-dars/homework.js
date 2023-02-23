@@ -70,7 +70,7 @@
 ///     res = valeus[2];
 /// }
 /// console.log(res);
-
+// 
 // multiplyNumerics
 
 /// let menu = {
