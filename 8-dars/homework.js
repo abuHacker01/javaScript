@@ -12,26 +12,16 @@
 // function name(str) {
 //     let res = {};
 //     for (l of str) {
-//         res[l] ? res[l] = res[l] + 1 : res[l] = 1;
+//         if (res[l]) res[l] = res[l] + 1; else res[l] = 1;
 //     }
 //     console.log(res);
 // }
 // name(string);
 
 
-let string = "3212$!";
-for (i of string) {
-    var res = "";
-    let kkm = "";
-    if (!isNaN(i)) {
-        kkm = kkm + string[i];
-    } else if (res !== i.toUpperCase()) {
-        kkm = kkm + string[i];
-    } else {
-        res = res + string[i];
-    }
-    console.log(res);
-}
+// let string = "3212";
+// string.replace("$", "");
+// console.log(string);
 
 
 // let str = "opiafoduify3123#!@#!dsjascnknnalhdksckah";
