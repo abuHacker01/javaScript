@@ -19,10 +19,15 @@
 // name(string);
 
 
-// let string = "3212";
-// string.replace("$", "");
-// console.log(string);
-
+// let string = "$7$$&3!&$&!$&!$&!$&!$!&$!&$!&$!&$!&$!&!$&!$&!$&!2$$12";
+// function name(str) {
+//     str = str.replaceAll("$", "");
+//     str = str.replaceAll("&", "");
+//     str = str.replaceAll("!", "");
+//     str = str.replaceAll("%", "");
+//     console.log(str);
+// }
+// name(string);
 
 // let str = "opiafoduify3123#!@#!dsjascnknnalhdksckah";
 // let res = { string: 0, number: 0, char: 0 };
