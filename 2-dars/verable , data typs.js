@@ -44,7 +44,7 @@
 
 ////// null vs undefined :
 
-/////// null-bu ob'ekt yo'qligining aniq qiymati, undefined esa noaniqlikni ;
+/////// null-bu ob'ekt yo'qligining aniq qiymati, undefined esa ob'ektni noaniqlig ;
 /////// null == undefined     // true
 /////// null === undefined    // false
 /////// isNaN(undefined)      // true
@@ -52,4 +52,4 @@
 
 //// non-primitive :
 
-///// object...............=> array, function ;
+///// object...............=> array, function ;я

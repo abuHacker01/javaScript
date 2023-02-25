@@ -31,8 +31,11 @@
 
 /// syntax of structuredClone :
 
+// let user = {
 //     name: "dilmurod",
 //     surname: "Xabibullaev",
 //     age: 15
 // };
-// let copyinfoD = structuredClone(infoD);
+// let clone;
+// structuredClone(clone);
+// console.log(clone);
