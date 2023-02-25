@@ -37,4 +37,4 @@
 //     else if (res !== l.toUpperCase()) res.string++;
 //     else res.char++;
 // }
-console.log(res);
+// console.log(res);
