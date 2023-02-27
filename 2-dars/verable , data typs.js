@@ -52,4 +52,4 @@
 
 //// non-primitive :
 
-///// object...............=> array, function ;я
+///// object...............=> array, function ;
