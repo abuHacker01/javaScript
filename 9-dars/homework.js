@@ -1,5 +1,14 @@
+// array ichidagi sonlarni bir-birga qo'shish
+
+
 // let arr = [5, 4, 3, 9];
 // console.log(eval(arr.join("+")));
+
+
+
+
+
+// arrayni ichidagi sanoqni topish :
 
 
 // let arr = ["Webbrain", "academy"];
@@ -13,14 +22,21 @@
 // name(arr + "");
 
 
-// let arr1 = ["hello"];
-// let arr2 = ["hello"];
+
+
+
+
+// arrayni bir-biriga taqqoslash :
+
+
+// let arr1 = [1, 7];
+// let arr2 = [1, 7];
 // function arrTaq(arr1, arr2) {
-//    arr1 = arr1 + "";
-//    arr2 = arr2 + "";
+//     arr1 = arr1 + "";
+//     arr2 = arr2 + "";
 //     console.log(arr1 == arr2);
 // }
-// arrTaq(arr1,arr2)
+// arrTaq(arr1, arr2);
 
 
 // let users = [
