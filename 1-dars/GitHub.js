@@ -20,7 +20,7 @@
 //// birinchi urunishda xatolik ko'rsatadi u xolda quidagi ko'dlarni yozamiz :
 
 ///// 1. git config -global user.email "your@gmail.com"
-///// 2. git config --global user.name "mukhtorov"uo5oiyoiyourjht;kthg
+///// 2. git config --global user.name "mukhtorov"
 
 
 //// kiritish/yangilash

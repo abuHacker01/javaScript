@@ -50,3 +50,8 @@
 
 /// turneryning xam vazifsi bir xil ;
 //// ularning farqi turneryni 
+
+
+for (i = 0; i <= 10; i++) {
+    console.log(i);
+}

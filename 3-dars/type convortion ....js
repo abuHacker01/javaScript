@@ -1,23 +1,25 @@
 // Type Convirsion
 
-/// Type Convirsion-bu ma'lum data turidagi ma'lumotni boshqa data turiga o'zgartirish\
+/// Type Convirsion-bu ma'lum data turidagi ma'lumotni boshqa data turiga o'zgartirish
 
 /// BOOLEAN ==> STRING
 
 // first
 
-// let valeu = true;     // yangi o'zgaruvchhi ochildi ;
+// let valeu = true;          // yangi o'zgaruvchhi ochildi ;
 // console.log(typeof valeu); // bu yerda boolean chiqadi ;
-// valeu = String(valeu);  // shu yerda stringga o'zgaryapti ;
-// console.log(typeof valeu);  // string-deb chiqadi ;
+// valeu = String(valeu);     // shu yerda stringga o'zgaryapti ;
+// console.log(typeof valeu); // string-deb chiqadi ;
 
 
 // STRING ==> NUMBER
 
-// let str = "123";
-// console.log(typeof str);    // string ;
-// str = Number(str);          // shu yerda Numberga o'tdi ;
-// console.log(typeof str);    // Number chiqadi ;
+// let str = "123";               // yangi o'zgaruvchhi ochildi ;
+// console.log(typeof str);       // string chiqadi ;
+// str = Number(str);             // shu yerda Numberga o'tdi ;
+// str = Number.parseFloat(str);  // shu yerda Numberga o'tdi ;
+// str = Number.parseInt(str);    // shu yerda Numberga o'tdi ;
+// console.log(typeof str);       // Number chiqadi ;
 
 /// agar string ustida (+)-dan tashqari barcha arifmetik amal bajarsaxam Numberga o'tadi
 

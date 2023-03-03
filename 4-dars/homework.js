@@ -8,9 +8,9 @@
 
 // let javob = "I dont know";
 // if (javob == "ECMAScript") {
-//     console.log("Right!");
-// } else {
-//     console.log(`You don't know?\n "ECMAScript"`);
+    //     console.log("Right!");
+    // } else {
+        //     console.log(`You don't know?\n "ECMAScript"`);
 // }
 
 // third
@@ -18,7 +18,7 @@
 // a + b < 4 ? console.log("Below") : console.log("Over");
 
 // if (a + b < 4) {
-//     console.log("Below");
+    //     console.log("Below");
 // } else {
 //     console.log("Over");
 // }
@@ -31,3 +31,10 @@
 // login == "Enployee" ? message = "Hello" :
 //     login == "Director" ? message = "Gretings" :
 //         login == "" ? message = "No login" : message = "";
+
+
+
+let son = -0;
+if (son < 0) console.log(-1);
+else if (son === 0) console.log(0);
+else console.log(1);

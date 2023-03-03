@@ -59,8 +59,8 @@
 
 // do while
 
-/// do while bilan whilening farqi do while birinchi amal bajariladi :
-//// bu degani sart xato bo'lsaxam bir martta ishlaydi .
+/// do while bilan whilening farqi do while birinchi amal bajaradi :
+//// bu degani shart xato bo'lsaxam bir martta ishlaydi .
 
 /// Syntax of do while :
 
