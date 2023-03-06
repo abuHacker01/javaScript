@@ -1,3 +1,49 @@
+// katta va kichik sonlarni topib beradi :
+
+
+// const getText = (str) => {
+//     let katta = "";
+//     let  kichik = "";
+//     for (i of str) {
+//         (i === i.toUpperCase()) ? i === " " ? "" : katta += 1 : kichik += i;
+//     }
+//     console.log(`${katta.length}ta katta, ${kichik.length}ta kichkina`);
+// };
+// getText("WebbBrain AcaDemy");
+
+
+
+
+
+
+// string ichidagi raqamlarni topish :
+
+
+// let string = "Maca5rena";
+// function raqt(str) {
+//     let res = ""
+//     for (i of str) {
+//         if (!isNaN(i)){
+//             res =+ i
+//         }
+//     }
+//     console.log(res);
+// }
+// raqt(string);
+
+
+// dublikate
+
+function DublikateNumbers(str) {
+    for (i of str) {
+        if (i === i++) {
+            
+        }
+        console.log(i);
+    }
+}
+DublikateNumbers("webbbraaiin aacccedmmy");
+
 // eng kattalarini topib uni ayrish :
 
 // function lastNumber(arr) {
@@ -43,7 +89,7 @@
 // ikki xonali sonlarni topish :
 
 
-// let arr = [12, 43, 5, "12", "1213", 4, 75, 2];
+// let arr = [12, 43, 5, 032, "12", "1213", 4, 75, 2];
 // function ikkiXonaliklar(arr) {
 //     let res = arr.filter((a) => { return (a + "").length == 2; });
 //     return res;
@@ -55,16 +101,30 @@
 // @ => A
 
 
-// let str = "WEBBR@IN @C@DEMY";
-// str = str.replaceAll("@" , "A")
+// let str = "Webbr@in @c@demy";
+// str = str.replaceAll("@" , "a")
 // console.log(str);
 
+// ikkinchi variant
+
+// const getWeb = (str) => {
+//     let result = "";
+//     for (let i of str) {
+//         if (i === "@") {
+//             result += "a";
+//         } else {
+//             result += i;
+//         }
+//     }
+//     return result;
+// };
+// console.log(getWeb("Webbr@in Ac@demy"));
 
 
 
 
 
-// katta-kichikni nechtaligini chiqarib
+
 
 
 // let string = "DilmurodXabibullaev";
@@ -76,20 +136,3 @@
 //     console.log(res);
 // }
 // name(string);
-// let string = "DilmurodXabibullaev";
-// function name(str) {
-//     let res = {};
-//     for (i = 0; i < str.length; i++) {
-//         if (res[i]) res[i] = res[i] + 1; else res[i] = 1;
-//     }
-//     console.log(res);
-// }
-
-// let i=0;
-// for (i = 2; i < 10; i++) {
-//     console.log(`\n${i} karaliklar\n`);
-//     for (j = 1; j <= 10; j++) {
-//         console.log(`${i} * ${j} = ${i * j}`);
-//         // console.log(j);
-//     }
-// }
