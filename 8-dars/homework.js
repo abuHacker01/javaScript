@@ -1,3 +1,8 @@
+// stringni bir-biriga taqqoslash :
+
+
+// let string = "1";
+// let string2 = 1;
 // function chek(str1, str2) {
 //     if (str1 === str2) {
 //         console.log(0);
@@ -7,6 +12,15 @@
 //         console.log(-1);
 //     }
 // }
+// chek(string, string2);
+
+
+
+
+
+
+// string ichidagi malumotlardan nechtaligini aytadi :
+
 
 // let string = "DilmurodXabibullaev";
 // function name(str) {
@@ -19,6 +33,12 @@
 // name(string);
 
 
+
+
+
+// string ichidan raqamlarni olib beradi :
+
+
 // let string = "$7$$&3!&$&!$&!$&!$&!$!&$!&$!&$!&$!&$!&!$&!$&!$&!2$$12";
 // function name(str) {
 //     str = str.replaceAll("$", "");
@@ -28,13 +48,3 @@
 //     console.log(str);
 // }
 // name(string);
-
-// let str = "opiafoduify3123#!@#!dsjascnknnalhdksckah";
-// let res = { string: 0, number: 0, char: 0 };
-// for (l of str) {
-//     let res = l.toLowerCase();
-//     if (!isNaN(l)) res.number++;
-//     else if (res !== l.toUpperCase()) res.string++;
-//     else res.char++;
-// }
-// console.log(res);

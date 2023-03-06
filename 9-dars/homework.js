@@ -39,6 +39,12 @@
 // arrTaq(arr1, arr2);
 
 
+
+
+
+// arrayni sort qilish :
+
+
 // let users = [
 //     {id:1, year: 1998, engine: 1, name: "Tico"},
 //     {id:2, year: 2005, engine: 1.2, name: "Matiz"},
