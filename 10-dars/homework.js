@@ -16,6 +16,12 @@
 
 
 
+// dublecatelarni o'chirish :
+
+
+
+
+
 // string ichidagi raqamlarni topish :
 
 
@@ -32,17 +38,26 @@
 // raqt(string);
 
 
-// dublikate
 
-function DublikateNumbers(str) {
-    for (i of str) {
-        if (i === i++) {
-            
-        }
-        console.log(i);
-    }
-}
-DublikateNumbers("webbbraaiin aacccedmmy");
+
+
+
+// dublikate qilish
+
+
+// let str = "webrain";
+// function duble(string) {
+//     let res = "";
+//     for (i of string) {
+//         res = res + i + i;
+//     }
+//     console.log(res);
+// }
+// duble(str)
+
+
+
+
 
 // eng kattalarini topib uni ayrish :
 
@@ -73,13 +88,13 @@ DublikateNumbers("webbbraaiin aacccedmmy");
 //             age: 3
 //         }
 //     }
-// }
+// };
 // let sum = 0;
-//  while(obj){
-//    sum+=obj.age;
-//    obj=obj.child;
-//  }
-//  console.log(sum);
+// while (obj) {
+//     sum += obj.age;
+//     obj = obj.child;
+// }
+// console.log(sum);
 
 
 
