@@ -19,8 +19,15 @@
 // dublecatelarni o'chirish :
 
 
+let str = "weebbraaainn";
 
-
+let res = "";
+for (i of str) {
+    if (i !== i++) {
+        res += i;
+    }
+}
+console.log(res);
 
 // string ichidagi raqamlarni topish :
 
