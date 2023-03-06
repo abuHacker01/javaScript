@@ -36,7 +36,6 @@
 
 
 
-
 // string ichidagi raqamlarni topish :
 
 
@@ -100,7 +99,7 @@
 
 
 // let obj = {
-    //     title: "webbrain",
+//     title: "webbrain",
 //     age: 2,
 //     child: {
 //         age: 2,
@@ -176,8 +175,6 @@
 //     console.log(res);
 // }
 // name(string);
-
-
 
 
 
