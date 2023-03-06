@@ -19,15 +19,23 @@
 // dublecatelarni o'chirish :
 
 
-let str = "weebbraaainn";
+// let str = "weebbraaainn";
+// function deldeb(string) {
+//     let res = "";
+//     for (let i = 0; i < string.length; i++) {
+//         if (string[i] !== string[i + 1]) {
+//             res += string[i];
+//         }
+//     }
+//     console.log(res);
+// }
+// deldeb(str);
 
-let res = "";
-for (i of str) {
-    if (i !== i++) {
-        res += i;
-    }
-}
-console.log(res);
+
+
+
+
+
 
 // string ichidagi raqamlarni topish :
 
@@ -66,18 +74,33 @@ console.log(res);
 
 
 
-// eng kattalarini topib uni ayrish :
 
-// function lastNumber(arr) {
-//   while (arr.length > 1) {
-//     let array = arr.sort((a, b) => a - b);
-//     let res = array[array.length - 1] - array[array.length - 2];
-//     array.splice(array.length - 2, 2);
-//     res ? array.push(res) : null;
-//   }
-//   return arr;
+// palindromligini topadi :
+
+
+// let palin = "nonq";
+// function taqqosla(str) {
+//     let res1 = str.split("");
+//     let res2 = str.split("").reverse();
+//     function arrTaq(arr1, arr2) {
+//         arr1 = arr1 + "";
+//         arr2 = arr2 + "";
+//         console.log(arr1 == arr2);
+//     }
+//     arrTaq(res1, res2);
 // }
-// console.log(lastNumber([11, 14, 12]));
+// taqqosla(palin);
+
+
+
+
+
+
+
+// nechta xarif bor va nechtadanligini to:
+
+
+
 
 
 
@@ -85,8 +108,9 @@ console.log(res);
 
 // age-larni yig'indisini topish :
 
+
 // let obj = {
-//     title: "webbrain",
+    //     title: "webbrain",
 //     age: 2,
 //     child: {
 //         age: 2,
@@ -117,6 +141,10 @@ console.log(res);
 //     return res;
 // }
 // console.log(ikkiXonaliklar(arr));
+
+
+
+
 
 
 
@@ -158,3 +186,26 @@ console.log(res);
 //     console.log(res);
 // }
 // name(string);
+
+
+
+
+
+
+
+
+
+
+// eng kattalarini topib uni ayrish :
+
+
+// function lastNumber(arr) {
+//   while (arr.length > 1) {
+//     let array = arr.sort((a, b) => a - b);
+//     let res = array[array.length - 1] - array[array.length - 2];
+//     array.splice(array.length - 2, 2);
+//     res ? array.push(res) : null;
+//   }
+//   return arr;
+// }
+// console.log(lastNumber([11, 14, 12]));
