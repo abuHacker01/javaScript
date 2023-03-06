@@ -96,16 +96,6 @@
 
 
 
-
-// nechta xarif bor va nechtadanligini to:
-
-
-
-
-
-
-
-
 // age-larni yig'indisini topish :
 
 
