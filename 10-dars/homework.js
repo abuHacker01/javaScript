@@ -36,25 +36,6 @@
 
 
 
-// string ichidagi raqamlarni topish :
-
-
-// let string = "Maca5rena";
-// function raqt(str) {
-//     let res = ""
-//     for (i of str) {
-//         if (!isNaN(i)){
-//             res =+ i
-//         }
-//     }
-//     console.log(res);
-// }
-// raqt(string);
-
-
-
-
-
 
 // dublikate qilish
 
@@ -89,6 +70,28 @@
 //     arrTaq(res1, res2);
 // }
 // taqqosla(palin);
+
+
+
+
+
+
+
+// string ichidagi raqamlarni topish :
+
+
+// let string = "Maca5rena";
+// function raqt(str) {
+//     let res = ""
+//     for (i of str) {
+//         if (!isNaN(i)){
+//             res =+ i
+//         }
+//     }
+//     console.log(res);
+// }
+// raqt(string);
+
 
 
 
@@ -161,6 +164,7 @@
 
 
 
+// string ichida nechtadan ve nechta xarifligini aytadi :
 
 
 // let string = "DilmurodXabibullaev";
