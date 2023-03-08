@@ -98,6 +98,22 @@
 
 
 
+// stringni ziplashtirish :
+
+
+// let aa = "wwwweeebbaaaaiiiiinnn";
+
+// let res = "";
+// let res2 = 2;
+// aa = aa.split("");
+// for (l of aa) {
+
+// }
+
+
+
+
+
 // age-larni yig'indisini topish :
 
 
@@ -188,12 +204,74 @@
 
 
 // function lastNumber(arr) {
-//   while (arr.length > 1) {
-//     let array = arr.sort((a, b) => a - b);
-//     let res = array[array.length - 1] - array[array.length - 2];
-//     array.splice(array.length - 2, 2);
-//     res ? array.push(res) : null;
-//   }
-//   return arr;
+//     while (arr.length > 1) {
+//         let array = arr.sort((a, b) => a - b);
+//         let res = array[array.length - 1] - array[array.length - 2];
+//         array.splice(array.length - 2, 2);
+//         res ? array.push(res) : null;
+//     }
+//     return arr;
 // }
-// console.log(lastNumber([11, 14, 12]));
+// console.log(lastNumber([12, 43, 13, 42]));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let arr = [12, 43, 13, 1];
+function consolelog(arr) {
+    let res = arr.sort((a, b) => a - b);
+    while (arr.length > 1) {
+        let newres = res[res.length - 1] - res[res.length - 2];
+        res.splice(res.length - 2, 2);
+        if (newres) {
+            res.push(newres);
+        } else {
+            null;
+        };
+    }
+    console.log(res);
+}
+
+consolelog(arr);

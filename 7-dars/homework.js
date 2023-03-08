@@ -20,24 +20,24 @@
 
 // eng katta oylig
 
-/// let obj = {
-///     Ann: Math.round(Math.random() * 1000),
-///     Joxn: Math.round(Math.random() * 1000),
-///     Pete: Math.round(Math.random() * 1000)
-/// };
-/// console.log(obj);
-/// let valeus = Object.values(obj);
-/// let res = 0;
-/// if (valeus[0] > res) {
-///     res = valeus[0];
-/// } if (valeus[1] > res) {
-///     res = valeus[1];
-/// } if (valeus[2] > res) {
-///     res = valeus[2];
-/// }
-/// console.log(res);
+// let obj = {
+//     Ann: Math.round(Math.random() * 1000),
+//     Joxn: Math.round(Math.random() * 1000),
+//     Pete: Math.round(Math.random() * 1000)
+// };
+// console.log(obj);
+// let valeus = Object.values(obj);
+// let res = 0;
+// if (valeus[0] > res) {
+//     res = valeus[0];
+// } if (valeus[1] > res) {
+//     res = valeus[1];
+// } if (valeus[2] > res) {
+//     res = valeus[2];
+// }
+// console.log(res);
 
-// qiymatlarni qo'shib ket 
+// qiymatlarni qo'shib ket
 
 /// let obj = {
 ///     esmat: 100,
@@ -70,7 +70,7 @@
 ///     res = valeus[2];
 /// }
 /// console.log(res);
-// 
+//
 // multiplyNumerics
 
 /// let menu = {
