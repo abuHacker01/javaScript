@@ -140,6 +140,20 @@
 
 
 
+// objektning bulean valeulig keylarini olib beradi :
+
+
+let obj = { name: "dilmurod", uy: true, mashina: false };
+
+let rr = Object.values(obj);
+for (i of rr) {
+    
+}
+
+
+
+
+
 // ikki xonali sonlarni topish :
 
 
