@@ -143,15 +143,33 @@
 // objektning bulean valeulig keylarini olib beradi :
 
 
-let obj = { name: "dilmurod", uy: true, mashina: false };
+// let obj = { name: "dilmurod", uy: true, mashina: false };
 
-let rr = Object.values(obj);
-for (i of rr) {
-    
+// for (i in obj) {
+//     if (typeof obj[i] === "boolean") {
+//         console.log(`${i}: ${obj[i]}`);
+//     }
+// }
+
+
+
+
+
+
+
+let obj = [9, 4, 3, 4, 6, 6];
+let res = [];
+obj.sort((a, b) => a - b);
+for (i in obj) {
+    if (i === i) {
+        i - i;
+        res += i;
+    } else {
+        // console.log(i);
+    }
+    // console.log(res);
 }
-
-
-
+console.log(res);
 
 
 // ikki xonali sonlarni topish :

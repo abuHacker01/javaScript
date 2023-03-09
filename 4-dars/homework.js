@@ -31,10 +31,3 @@
 // login == "Enployee" ? message = "Hello" :
 //     login == "Director" ? message = "Gretings" :
 //         login == "" ? message = "No login" : message = "";
-
-
-
-let son = -0;
-if (son < 0) console.log(-1);
-else if (son === 0) console.log(0);
-else console.log(1);
