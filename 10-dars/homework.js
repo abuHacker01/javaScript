@@ -157,19 +157,19 @@
 
 
 
-let obj = [9, 4, 3, 4, 6, 6];
-let res = [];
-obj.sort((a, b) => a - b);
-for (i in obj) {
-    if (i === i) {
-        i - i;
-        res += i;
-    } else {
-        // console.log(i);
-    }
-    // console.log(res);
-}
-console.log(res);
+// let obj = [9, 4, 3, 4, 6, 6];
+// let res = [];
+// obj.sort((a, b) => a - b);
+// for (i in obj) {
+//     if (i === i) {
+//         i - i;
+//         res += i;
+//     } else {
+//         console.log(i);
+//     }
+//     console.log(res);
+// }
+// console.log(res);
 
 
 // ikki xonali sonlarni topish :
