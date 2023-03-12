@@ -1,4 +1,4 @@
-let time = new Date()
+// let time = new Date()
 /// biz bu yerda datani ifodalash uchun kerak bo'lgan barch malumotlar ni yaratdig ;
 
 /// endi uni kontrol qilish uchun bizga metodlar kerak bo'ladi :
@@ -17,40 +17,21 @@ let time = new Date()
 //// getTime............=> 1970-yildan beri nechchi ;
 
 
+// set:
+
+//// setInterval........=> ikkita qiymat qabul qiladi :
+///// 1. collbac function
+///// 2. vaqt misol uchun :
+////// 1000-degan bolsak b bir sekund ;
+/////// demak xar bir sekundda collback function ichidagi malumot ishlaydi ;
+
+setInterval(() => {
+    
+}, interval)
 
 
 
 
 
+// JSON.................=> JSON-ni kengaytmasi : Java Script Object N
 
-
-
-
-
-
-
-
-
-
-
-
-
-} else if (time.getUTCMonth() == 3) {
-    time.getUTCMonth() = "Aprel";
-} else if (time.getUTCMonth() == 4) {
-    time.getUTCMonth() = "May";
-} else if (time.getUTCMonth() == 5) {
-    time.getUTCMonth() = "Iyun";
-} else if (time.getUTCMonth() == 6) {
-    time.getUTCMonth() = "Iyul";
-} else if (time.getUTCMonth() == 7) {
-    time.getUTCMonth() = "Avgust";
-} else if (time.getUTCMonth() == 8) {
-    time.getUTCMonth() = "Sentyabr";
-} else if (time.getUTCMonth() == 9) {
-    time.getUTCMonth() = "Oktyapr";
-} else if (time.getUTCMonth() == 10) {
-    time.getUTCMonth() = "Noyapr";
-} else if (time.getUTCMonth() == 11) {
-    time.getUTCMonth() = "Dekabr";
-}
