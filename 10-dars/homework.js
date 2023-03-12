@@ -114,6 +114,8 @@
 
 
 
+
+
 // age-larni yig'indisini topish :
 
 
@@ -134,6 +136,7 @@
 //     obj = obj.child;
 // }
 // console.log(sum);
+
 
 
 
@@ -172,6 +175,11 @@
 // console.log(res);
 
 
+
+
+
+
+
 // ikki xonali sonlarni topish :
 
 
@@ -181,6 +189,7 @@
 //     return res;
 // }
 // console.log(ikkiXonaliklar(arr));
+
 
 
 
@@ -224,9 +233,6 @@
 //     console.log(res);
 // }
 // name(string);
-
-
-
 
 
 
