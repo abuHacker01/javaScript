@@ -21,8 +21,15 @@
 
 // string ichidagi malumotlardan nechtaligini aytadi :
 
-
-
+// let str = "Dilmurod Xabibullaev";
+// let res = {};
+// function get(text) {
+//     for (i of text) {
+//         res[i] ? res[i] = res[i] + 1 : res[i] = 1;
+//     }
+//     console.log(res);
+// }
+// get(str);
 
 
 
