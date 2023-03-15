@@ -22,7 +22,7 @@
 // string ichidagi malumotlardan nechtaligini aytadi :
 
 
-\
+
 
 
 
