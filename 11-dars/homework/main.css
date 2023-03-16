@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url(./Blog-062018-Banner-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+.box {
+    gap: 20px;
+    margin-top: 150px;
+    margin-left: 810px;
+    width: 600px;
+    box-shadow: 0 10px 25px rgba(80, 80, 80, 10);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5px 30px;
+    border-radius: 10px;
+}
+
+.box p {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+    padding-left: 15px;
+    color: wheat;
+    background-color: rgba(22, 61, 25, 0.384);
+    box-shadow: 0 10px 25px rgba(80, 80, 80, 0.2);
+    border-radius: 10px;
+
+}
+
+span {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right;
+}
+
+#LT {
+    padding-left: -50px;
+}
+
+#LTS {
+    padding-left: -50px;
+}
+
+#L {
+    padding-left: -50px;
+}
+
+#l {
+    padding-left: -50px;
+}
+
+#LL {
+    padding-left: -50px;
+}
+
+#ll {
+    padding-left: -50px;
+}
+
+#LLL {
+    padding-left: -50px;
+}
+
+#lll {
+    padding-left: -50px;
+}
+
+#LLLL {
+    padding-left: -50px;
+}
+
+#llll {
+    padding-left: -50px;
+}

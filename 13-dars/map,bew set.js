@@ -52,25 +52,3 @@
 // name(number);                         |
 
 // Array.prototype.length
-let mm = 200;
-let sm = 700;
-let ds = 700;
-let m = 1;
-let km = 700;
-res = 1;
-switch (res) {
-    case 1:
-        console.log(`${(m * ds) / 10} metr`);
-        break;
-    case 2:
-        console.log(`${(km * m) * 1000} metr`);
-        break;
-    case 3:
-        console.log(`${m} metr`);
-        break;
-    case 4:
-        console.log(`${(m * sm) / 100} metr`);
-        break;
-    case 5:
-        console.log(`${(m * mm) / 1000} metr`);
-}
