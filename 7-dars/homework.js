@@ -72,16 +72,3 @@
 /// console.log(res);
 //
 // multiplyNumerics
-
-// let menu = {
-//     width: 200,
-//     height: 300,
-//     title: "My menu"
-// };
-// let valeus = Object.values(menu);
-// function multiplyNumeric(obj) {
-
-
-// }
-// console.log(multiplyNumeric(menu))
-// console.log('width' in menu);
