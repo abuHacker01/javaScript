@@ -28,6 +28,8 @@
 
 // Lexical Environment :
 
+/// qayerda scope bo'lsa o'sha yerni o'zini (--Lexical Environment--)-bo'ladi ;
+
 /// Lexical Environment ikkiga bo'linadi :
 
 //// 1. recorde 

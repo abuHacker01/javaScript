@@ -40,7 +40,7 @@
 
 //// add :
 
-///// stringfy...........=> bojectni keylarini string ichida yozib beradi ;
+///// stringfy...........=> objectni keylarini string ichida yozib beradi ;
 
 //// exec :
 

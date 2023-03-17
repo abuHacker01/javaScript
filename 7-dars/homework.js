@@ -21,9 +21,9 @@
 // eng katta oylig
 
 // let obj = {
-//     Ann: Math.round(Math.random() * 1000),
-//     Joxn: Math.round(Math.random() * 1000),
-//     Pete: Math.round(Math.random() * 1000)
+//     Ann: parseInt(Math.random() * 1000),
+//     Joxn: parseInt(Math.random() * 1000),
+//     Pete: parseInt(Math.random() * 1000)
 // };
 // console.log(obj);
 // let valeus = Object.values(obj);

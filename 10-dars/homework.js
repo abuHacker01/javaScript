@@ -58,18 +58,18 @@
 // palindromligini topadi :
 
 
-// let palin = "nonq";
-// function taqqosla(str) {
-//     let res1 = str.split("");
-//     let res2 = str.split("").reverse();
-//     function arrTaq(arr1, arr2) {
-//         arr1 = arr1 + "";
-//         arr2 = arr2 + "";
-//         console.log(arr1 == arr2);
-//     }
-//     arrTaq(res1, res2);
-// }
-// taqqosla(palin);
+let palin = "non";
+function taqqosla(str) {
+    let res1 = str.split("");
+    let res2 = str.split("").reverse();
+    function arrTaq(arr1, arr2) {
+        arr1 = arr1 + "";
+        arr2 = arr2 + "";
+        console.log(arr1 == arr2);
+    }
+    arrTaq(res1, res2);
+}
+taqqosla(palin);
 
 
 
