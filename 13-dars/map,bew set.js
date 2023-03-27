@@ -4,7 +4,7 @@
 
 //// function scope
 //// while scope
-//// if&else scope
+//// if & else scope
 //// for loop scope...
 
 /// scopelarni ishlashi :
