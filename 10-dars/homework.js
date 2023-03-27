@@ -19,17 +19,17 @@
 // dublecatelarni o'chirish :
 
 
-// let str = "weebbraaainn";
-// function deldeb(string) {
-//     let res = "";
-//     for (let i = 0; i < string.length; i++) {
-//         if (string[i] !== string[i + 1]) {
-//             res += string[i];
-//         }
-//     }
-//     console.log(res);
-// }
-// deldeb(str);
+let str = "weebbraaainn";
+function deldeb(string) {
+    let res = "";
+    for (let i = 0; i < string.length; i++) {
+        if (string[i] !== string[i + 1]) {
+            res += string[i];
+        }
+    }
+    console.log(res);
+}
+deldeb(str);
 
 
 
