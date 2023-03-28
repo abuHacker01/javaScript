@@ -98,23 +98,6 @@ deldeb(str);
 
 
 
-// stringni ziplashtirish :
-
-
-// let aa = "wwwweeebbaaaaiiiiinnn";
-
-// let res = "";
-// let res2 = 2;
-// aa = aa.split("");
-// for (l of aa) {
-
-// }
-
-
-
-
-
-
 
 // age-larni yig'indisini topish :
 
@@ -252,4 +235,4 @@ deldeb(str);
 //     }
 //     return arr;
 // }
-// console.log(lastNumber([12, 43, 13, 42]));
+// console.log(lastNumber([12, 43, 12, 13, 42]));
