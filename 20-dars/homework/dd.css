@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.box {
+    background-image: url(./1595949526_409746.jpg);
+    width: 1872px;
+    height: 964px;
+    background-position: center;
+    background-size: cover;
+}
+
+#ball { 
+    width: 130px;
+    height: 90px;
+    margin-left: 870px;
+    margin-top: 440px;
+}
