@@ -6,8 +6,8 @@
 
 .box {
     background-image: url(./1595949526_409746.jpg);
-    width: 1872px;
-    height: 964px;
+    width: 100%;
+    height: 1080px;
     background-position: center;
     background-size: cover;
 }

@@ -16,7 +16,7 @@
 //     number = 0;                                 |
 //     count(params) {                             |
 //         console.log(++this.number);             |
-//     }                                           |-------------- bu yerda xar ishlaganda numberni qiymatini oshirin beradi . yani bir qo'shganini eslab qoladi ;
+//     }                                           |-------------- bu yerda xar ishlaganda numberni qiymatini birga oshirin beradi . yani bir qo'shganini eslab qoladi ;
 // }                                               |
 // let obj = new Str();                            |
 // obj.count()                                     |
@@ -42,10 +42,11 @@
 
 /// contraktor :
 
-//// qachonki (let obj1 = new Str())- bunday qilib o'zgaruvchi ochsag contraktor birinchi o'rinda yuradi . pasta yoki tepada bo'lishidan qatiy nazar ;
+//// qachonki (let obj1 = new Str())- qilib o'zgaruvchi ochsag contraktor birinchi o'rinda yuradi . pasta yoki tepada bo'lishidan qatiy nazar ;
 
 /// security verable :
 //// biz yasagan oddiy verable :
+
 // class Str {
 //     password = 017746;
 //     login = "text";
@@ -132,5 +133,3 @@
 // console.log(add.func());
 
 //// yani biz super bilan boshqa functionlarni ishlatishimiz mumkun ;
-
-
