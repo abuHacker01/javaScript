@@ -23,8 +23,3 @@
 
 ///// let body = document.querySelector(".theBiggest");                        |__________ bu yerda body-dan clonega clone qilyapti ;
 ///// let clone = body.cloneNode()                                             |
-
-
-/// scrole :
-
-//// scroleni uchta turi bor :
