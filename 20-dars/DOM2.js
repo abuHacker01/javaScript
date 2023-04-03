@@ -28,7 +28,3 @@
 /// scrole :
 
 //// scroleni uchta turi bor :
-
-///// 1. scroll
-///// 2. scrolto
-///// 3.
