@@ -1,14 +1,11 @@
-
 import React from "react";
 class Student extends React.Component {
     render() {
-        return <h1>Hey</h1>;
+        let { location, children } = this.props;
+        return <div>
+            <h1>welcome to: {location || "no location"}</h1>
+            {children}
+        </div>;
     }
 }
 export default Student;
-function student() {
-    return 1;
-}
-
-
-student()
