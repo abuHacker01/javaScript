@@ -22,7 +22,6 @@
 ///// 1. git config -global user.email "your@gmail.com"
 ///// 2. git config --global user.name "mukhtorov"
 
-
 //// kiritish/yangilash
 
 ///// 3. git add .
