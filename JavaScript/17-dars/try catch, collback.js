@@ -12,7 +12,6 @@
 //     console.log(str);
 // }
 
-
 //// console.log(num)-qilganimizda (num is not defined)-chiqadi . Lekin catch-da (console.log(str);)-deb yozganmiz uchun str-ning qiymati chiqadi ;
 
 //// biz catch-ga "condition" berishinmiz mumkun . Uni keginchalig trydagi kelgan errorni nazarda tutsag bo'ladi misol uchn :
