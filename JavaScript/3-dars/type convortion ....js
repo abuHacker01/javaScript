@@ -51,7 +51,6 @@
 
 // ||..........................=> (--yoki--) belgisi :
 
-
 /// bu belgi bir tomonidaxam true bo'lsa (true) qaytaradi ;
 /// faqat ikkala tomonida false bo'lsa kegin (false) qaytaradi ;
 
