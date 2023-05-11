@@ -11,7 +11,7 @@
 // // arrayni ichidagi sanoqni topish :
 
 
-let arr = ["Webbrain", "academy"];
+let arr = [`W123456eb/.>?./?>}"{brain`, "academy"];
 function name(str) {
     let res = {};
     for (l of str) {

@@ -39,7 +39,7 @@
 // string ichidan raqamlarni olib beradi :
 
 
-// let string = "$7$$&3!&$&!$&!$&!$&!$!&$!&$!&$!&$!&$!&!$&!$&!$&!2$$12";
+// let string = "$7$$&3!&$&!$&!$&!$&!$!&$!&$!&$!&$!&$!&!$&!$&!$&!2kj$$12";
 // function name(str) {
 //     str = str.replaceAll("$", "");
 //     str = str.replaceAll("&", "");
